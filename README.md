@@ -3,7 +3,7 @@ SimilarSites官网-一键查询相似网站|搜索查询相似网站插件工具
 SimilarSites 是一个专注于网站相似性推荐的智能工具。它通过分析网站的内容、结构、链接以及用户行为等多维度数据，为用户推荐与目标网站相似的其他网站。无论是寻找竞品分析素材、拓展兴趣领域，还是解决特定场景需求，SimilarSites 都能显著提升信息获取效率。该工具自 2015 年首次以浏览器插件形态问世，经过多年迭代，已发展成覆盖网页端、移动端及插件版的全平台解决方案。
 
 <p><strong>一键访问：</strong><a href="https://www.ggonav.com/sites/5703.html" target="_blank" ><strong>SimilarSites最新网址</strong></a></p>
-<p><strong>一键访问：</strong><a href="https://www.rymdh.com/favorites/yingshi" target="_blank" ><strong>影视在线看</strong></a></p>
+<p><strong>一键访问：</strong><a href="https://www.ggonav.com/favorites/ziyuansousuo" target="_blank" ><strong>资源搜索</strong></a></p>
 <p><strong>一键访问：</strong><a href="https://wangpanziyuan.pages.dev/" target="_blank" ><strong>电子书/电影/音乐/漫画/游戏下载</strong></a></p>
 
 ### 功能特点
